@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi! I'm currently working on obtaining the Salesforce Platform Developer I certification in August of 2024. I'm currently enrolled in Cloud Code Academy Developer Kickstart Cohort 5.
+I'm super excited. 
+
+I have a dog, Yeezy.
+
+I hope I remember to update this when I pass the exam. Someone remind me, please. lol 😄
 
 <!--
 **Cecil344/Cecil344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
